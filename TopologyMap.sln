@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopologyMap", "TopologyMap\TopologyMap.csproj", "{9DA37B6A-9EEE-4330-85D8-00F34317FE16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTopologyMap", "TestTopologyMap\TestTopologyMap.csproj", "{68DB1CD3-4EC5-49B8-AE90-0C28D02E76F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA37B6A-9EEE-4330-85D8-00F34317FE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA37B6A-9EEE-4330-85D8-00F34317FE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA37B6A-9EEE-4330-85D8-00F34317FE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA37B6A-9EEE-4330-85D8-00F34317FE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DB1CD3-4EC5-49B8-AE90-0C28D02E76F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DB1CD3-4EC5-49B8-AE90-0C28D02E76F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DB1CD3-4EC5-49B8-AE90-0C28D02E76F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DB1CD3-4EC5-49B8-AE90-0C28D02E76F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A37F78A-5521-4C53-A8B1-AC19C984A0A2}
+	EndGlobalSection
+EndGlobal
